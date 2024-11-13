@@ -72,7 +72,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![caeser](https://github.com/user-attachments/assets/9ebd9df1-d4bc-40e5-a9e1-b81ec68e7cf7)
+![ex1](https://github.com/user-attachments/assets/08739db4-1d56-400d-b0d2-648dc5fb6219)
 
 
 
